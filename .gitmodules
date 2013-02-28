@@ -4,3 +4,6 @@
 [submodule "content/plugins"]
 	path = content/plugins
 	url = mp825@mydevil.net:~/git_repos/chinypopolsku_plugins.git
+[submodule "content/themes/chinypopolsku"]
+	path = content/themes/chinypopolsku
+	url = mp825@mydevil.net:~/git_repos/chinypopolsku_theme.git
