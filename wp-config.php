@@ -1,4 +1,7 @@
 <?php
+/** Enable W3 Total Cache */
+define('WP_CACHE', true); // Added by W3 Total Cache
+
 // ===================================================
 // Load database info and local development parameters
 // ===================================================
@@ -48,7 +51,7 @@ $table_prefix  = 'wp_';
 // Language
 // Leave blank for American English
 // ================================
-define( 'WPLANG', '' );
+define( 'WPLANG', 'pl_PL' );
 
 // ===========
 // Hide errors
